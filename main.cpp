@@ -12,5 +12,9 @@ int main()
      << "A * B = " << a * b << '\n'
      << "A / B = " << a / b << '\n';
 
-
+if(A>B)
+float MAX =A;
+else
+float MAX =B
+cout <<MAX;
 }
