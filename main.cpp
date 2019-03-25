@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
 
@@ -18,3 +18,8 @@ else
 float MAX =B
 cout <<"MAXIMUM="<<MAX;
 }
+
+cout<<MAX<<"\n";
+cout<<MIN;
+}
+
