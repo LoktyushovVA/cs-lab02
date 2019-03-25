@@ -13,15 +13,8 @@ int main()
      << "A / B = " << a / b << '\n';
 
 if(A>B)
-{
-int MAX =A;
-int MIN=B;
-}
+float MAX =A;
 else
-{
-int MAX =B;
-int MIN=A;
-}
-cout<<MAX;
-cout<<MIN;
+float MAX =B
+cout <<"MAXIMUM="<<MAX;
 }
